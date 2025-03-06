@@ -33,9 +33,7 @@ The backend will run on http://localhost:5000.
 ---------------------------------------------------------------------
 🔗 API Endpoints
 
-Method	           Endpoint	             Description
-
-GET	               /tasks	               Get all tasks
-POST	             /tasks	               Create a new task
-PUT	               /tasks/:id	           Update a task
-DELETE	           /tasks/:id	           Delete a task
+GET	-> /tasks -> Get all tasks
+POST -> /tasks -> Create a new task
+PUT -> /tasks/:id	-> Update a task
+DELETE -> /tasks/:id -> Delete a task  
